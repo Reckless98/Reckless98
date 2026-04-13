@@ -1,4 +1,4 @@
-# Hi, I'm Filip Volf (Captain)
+# Hi, I'm Filip Volf
 
 I’m a full-stack developer and AI orchestrator building polished web apps, tools, and cybersecurity solutions. Hacker and OSINT enthusiast, always shipping and exploring.
 
@@ -6,7 +6,7 @@ I’m a full-stack developer and AI orchestrator building polished web apps, too
 - **Ariaska_RL** – my multi-agent reinforcement learning system, bridging AI and symbiosis.
 - **medias-supply** – a CI/CD-powered platform for clients, with custom e-commerce and product catalog features.
 - **xaweed** – live cannabis shop built for Xà Weed with integrated admin panel.
-- **hexcraft** – an online hexagram tool combining mysticism, AI and interactive design.
+- **resumeforge** – an online resume building tool combining pre built templates, suggestions, job specific suggestions and interactive design.
 - **promptium** – a prompt builder and versioning lab to craft, organize, and deploy AI prompts.
 - **statusdeck** – a status page and operations dashboard for transparency and ops.
 
