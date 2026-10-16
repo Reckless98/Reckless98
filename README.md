@@ -1,6 +1,8 @@
 # Hi, I'm Filip Volf
 
-I’m a full-stack developer and AI orchestrator building polished web apps, tools, and cybersecurity solutions. Hacker and OSINT enthusiast, always shipping and exploring.
+I'm a full-stack software engineer and founder of [Deus Engineering](https://deusengineering.com), based in Serbia. I build and maintain web applications with TypeScript, React, Next.js, Node.js and PostgreSQL. I'm open to remote engineering roles and B2B development projects, particularly with teams in Croatia and the wider EU.
+
+I built and operate [Pametni Advokat](https://pametniadvokat.rs), a legal-tech SaaS for Serbian law offices. My work covers interfaces, APIs, database design, authentication, RLS/RBAC, integrations, testing, deployment and production maintenance. I use Claude Code and OpenAI Codex with human review and verification of changes.
 
 ## Featured Projects
 - **Ariaska_RL** – my multi-agent reinforcement learning system, bridging AI and symbiosis.
@@ -10,8 +12,13 @@ I’m a full-stack developer and AI orchestrator building polished web apps, too
 - **promptium** – a prompt builder and versioning lab to craft, organize, and deploy AI prompts.
 - **statusdeck** – a status page and operations dashboard for transparency and ops.
 
-## What I’m up to
-Building a portfolio of 30+ production-quality apps across categories (SaaS, AI tools, business apps, productivity, real-time collaboration, utilities) with Next.js, TypeScript, Supabase, Tailwind, and Vercel. Each app is polished, responsive, and documented. I’m also studying pentesting/OSINT while designing AI-driven workflows.
+## What I'm working on
 
-## Interested?
-Reach out if you want to collaborate on web products, AI systems, or need help automating your work or defending your infrastructure.
+Production software through Deus Engineering and Pametni Advokat, alongside portfolio projects and experiments with Python, AI tooling and application security. I'm also studying the HTB Academy CPTS path.
+
+## Get in touch
+
+- [Deus Engineering](https://deusengineering.com)
+- [LinkedIn](https://www.linkedin.com/in/filip-volf/)
+
+I'm open to employment, B2B contracts and technical collaborations.
